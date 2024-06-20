@@ -1,1 +1,3 @@
-
+frauhottelmann/daloradius-docker:1.2
+ohttps/ohttps-nginx:1.0.2
+ubuntu/bind9:edge
