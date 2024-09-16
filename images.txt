@@ -1,10 +1,3 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-elestio/etherpad
-nextcloud/all-in-one:latest
-postgres:13.4-alpine
-quay.io/hedgedoc/hedgedoc:1.10.0
+frauhottelmann/daloradius-docker:1.2
+ohttps/ohttps-nginx:1.0.2
+ubuntu/bind9:edge
