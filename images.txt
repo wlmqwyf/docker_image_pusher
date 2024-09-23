@@ -1,2 +1,2 @@
-ubuntu/bind9:edge
 frauhottelmann/daloradius-docker:1.2
+ubuntu/bind9:edge
